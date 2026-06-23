@@ -1,0 +1,6 @@
+@ProviderAgnosticAi.Api_HostAddress = http://localhost:5262
+
+GET {{ProviderAgnosticAi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
